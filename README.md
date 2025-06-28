@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-# Hi there, I'm Arab 👋<br><br>🎓 Graduate of BBA in Inforamtion Technology <br>🖌️ UI/UX Designer | Product Designer | Frontend Developer <br>🚀 Currently building awesome frontend projects and learning advanced data analysis  <br>🌱 Passionate to build things which inspires!<br><br>⚡ Fun fact: I love designing beautiful things and bringing them to life with code!<br><br><br><br>🔗 Links:<br>- abroimshoev@gmail.com<br>- LinkedIn: www.linkedin.com/in/arab-broimshoev-30b7b1267<br><br>---<br><br>🛠 Skills:<br>- Frontend: HTML | CSS | JavaScript | React.js<br>- UI/UX: Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator<br>- Technologies: API(Rest) | Git | MongoDB<br><br>📫 How to reach me: abroimshoev@gmail.com | Telegram: broimshoev_01<br>
+# Hi there, I'm Arab 👋<br><br>🎓 Graduate of BBA in Inforamtion Technology <br>🖌️ UI/UX Designer | Product Designer | Frontend Developer <br>🚀 Currently building awesome frontend projects.  <br>🌱 Passionate about web and mobile app design!<br><br>⚡ Fun fact: I love designing beautiful things and bringing them to life with code!<br><br><br><br>🔗 Links:<br>- abroimshoev@gmail.com<br>- LinkedIn: www.linkedin.com/in/arab-broimshoev-30b7b1267<br><br>---<br><br>🛠 Skills:<br>- Frontend: HTML | CSS | JavaScript | React.js| Vue <br>- UI/UX: Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator<br>- Technologies: API(Rest) | Git | Bootstrap| Tailwind CSS<br><br>📫 How to reach me: abroimshoev@gmail.com | Telegram: broimshoev_01<br>
 
 
 ## 🌐 Socials:
